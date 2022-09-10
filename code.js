@@ -2,11 +2,14 @@
 "Lumière" par Hitoki
 Commentaire :
 Pour que le programme marche il faut 2 commandes blocks avec ces commandes :
-execute as @e[type="{INSERET NOM}"] run msg {NOM DU ROBOT} on
-execute as @e[type="{INSERET NOM}"] run msg {NOM DU ROBOT} off
+execute as @e[type="Lampe"] run msg {NOM DU ROBOT} on
+execute as @e[type="Lampe"] run msg {NOM DU ROBOT} off
 
-le tout relié au levier et voilà ! :D
 
+Lampe est une entité du monde minecraft, nécessaire pour le fonctionnement du code
+
+
+le tout relié au levier avec un peu de redstone et voilà ! :D
 */
 
 
