@@ -22,7 +22,7 @@ Les coordonées de l'exemple : 50 75 130
 Ne pas tuer le mouton "Lampe" (il est utilisé pour chuchoter au robot (ce qui évite d'avoir des messages dans le tchat))
 
 Si vous avez des questions : 
-Discord = Hitoki#4204
+Discord = Hitoki#0593
 
 
 
